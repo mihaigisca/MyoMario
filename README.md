@@ -5,3 +5,7 @@ The application is a 2D game that consists of 2 fragments:
 - data fragment, band-specific data is displayed
 
 Project was tested with Android 6 (API 23) and 9 (API 28).
+
+Much of the BLE service was encapsulated in this project: https://github.com/gmishka96/MyoAndroidBlePlugin
+
+A project also targeting Myo Armband: https://github.com/gmishka96/MyoArmband3DMobile
