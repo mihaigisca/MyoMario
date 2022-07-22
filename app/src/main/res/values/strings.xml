@@ -1,0 +1,36 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MioMario</string>
+    <string name="bt_service_description">MioMario Bluetooth Service</string>
+    <string name="txt_serial_number">Serial Number:</string>
+    <string name="txt_device_name">Device Name:</string>
+    <string name="txt_firmware_version">Firmware Version:</string>
+    <string name="txt_battery_level">Battery Level:</string>
+    <string name="txt_emg0_sensor0">EMG0-S0:</string>
+    <string name="txt_emg0_sensor1">EMG0-S1:</string>
+    <string name="txt_emg1_sensor2" tools:ignore="Typos">EMG1-S2:</string>
+    <string name="txt_emg1_sensor3" tools:ignore="Typos">EMG1-S3:</string>
+    <string name="txt_emg2_sensor4">EMG2-S4:</string>
+    <string name="txt_emg2_sensor5">EMG2-S5:</string>
+    <string name="txt_emg3_sensor6">EMG3-S6:</string>
+    <string name="txt_emg3_sensor7">EMG3-S7:</string>
+    <string name="txt_unknown">Unknown</string>
+    <string name="txt_connection_state">Connection State:</string>
+    <string name="txt_connected">Connected</string>
+    <string name="txt_not_connected">Not connected</string>
+    <string name="txt_orientation_z">Orient-Z:</string>
+    <string name="txt_orientation_y">Orient-Y:</string>
+    <string name="txt_orientation_x">Orient-X:</string>
+    <string name="txt_orientation_w">Orient-W:</string>
+    <string name="txt_gyro_z">Gyro-Z:</string>
+    <string name="txt_gyro_y">Gyro-Y:</string>
+    <string name="txt_gyro_x">Gyro-X:</string>
+    <string name="txt_accel_z">Accel-Z:</string>
+    <string name="txt_accel_y">Accel-Y:</string>
+    <string name="txt_accel_x">Accel-X:</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_starting_application">Starting Application…</string>
+    <string name="txt_mario_walking_ground">Mario Walking ground</string>
+</resources>
