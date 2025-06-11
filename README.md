@@ -6,6 +6,6 @@ The application is a 2D game that consists of 2 fragments:
 
 Project was tested with Android 6 (API 23) and 9 (API 28).
 
-Much of the BLE service was encapsulated in this project: https://github.com/gmishka96/MyoAndroidBlePlugin
+Much of the BLE service was encapsulated in this project: https://github.com/mihaigisca/MyoAndroidBlePlugin
 
-A project also targeting Myo Armband: https://github.com/gmishka96/MyoArmband3DMobile
+A project also targeting Myo Armband: https://github.com/mihaigisca/MyoArmband3DMobile
